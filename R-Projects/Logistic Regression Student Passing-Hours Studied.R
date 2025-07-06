@@ -18,7 +18,7 @@ hoursstudied = data.frame(Hours, Pass)
 
 #Plot the data with logarithmic regression
 ggplot(hoursstudied, aes(Hours, Pass)) + geom_point(aes()) + 
-  geom_smooth(method = 'glm', se = FALSE, method.args = list(family=binomial)) + 
+  geom_smooth(formula = y ~ x, method = 'glm', se = FALSE, method.args = list(family=binomial)) + 
   labs(x = "Hours Studied", y = "Probability of Passing",
        title = "Probability of Passing Based on Hours Studied")
 
@@ -32,17 +32,17 @@ summary(logmodel)
 
 #Create model to predict outcome using hour coefficiecnt and intercept
 
-#Predict outcome for a student who studied for 2 hours 
+#Predict chance of passing (as a percent) for a student who studied for 2 hours 
 studentstudied = 2
 probofpassing = 1/(1+exp(-(-4.077713+1.504645*studentstudied)))
 probofpassing
 
-#Predict outcome for a student who studied for 12 minutes 
+#Predict chance of passing (as a percent) for a student who studied for 12 minutes 
 studentstudied = .2
 probofpassing = 1/(1+exp(-(-4.077713+1.504645*studentstudied)))
 probofpassing
 
-#Predict outcome for a student who studied for 4 hours
+#Predict chance of passing (as a percent) for a student who studied for 4 hours
 studentstudied = 4
 probofpassing = 1/(1+exp(-(-4.077713+1.504645*studentstudied)))
 probofpassing
