@@ -1,10 +1,8 @@
-<<<<<<< HEAD:R/README.MD
 R projects
 
 Find the correlation between hours studied and whether and student passes using logistic regression
 
 
-=======
 R projects
 
 1) **Correlation Analysis Between Auto Dataset Fields**
@@ -17,4 +15,3 @@ R projects
       Utilizing logistic regression, create a model to predict whether a student will pass based upon time spent studying.
 
 
->>>>>>> 87ad9e0172fbbe5cbf5a4c95ab07c5a0d975cdbf:R-Projects/README.MD
