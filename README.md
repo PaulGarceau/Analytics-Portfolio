@@ -4,7 +4,7 @@ Data Analytics Examples
 Welcome, Projects are seperated into folders based upon the Programming Language/Structure used.
 
 **Power-BI contains:**
-  - Static Screenshots of the Power BI visualizations.
+  - Static Images of the Power BI visualizations.
   - Power BI files which require Power BI Software to utilize.
 
   
@@ -23,7 +23,7 @@ Welcome, Projects are seperated into folders based upon the Programming Language
    https://public.tableau.com/app/profile/paul.garceau/vizzes
   These can be interacted with online without additionally software
 
-  - Static Images of the Tableau vizzes are in the Tableau Folder
-  - Tableau files which require Tableau Software to utilize.
+  - Static Images of the Tableau vizzes
+  - Tableau Workbook files which require Tableau Software to utilize.
 
 
