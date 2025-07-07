@@ -3,8 +3,27 @@ Data Analytics Examples
 
 Welcome, Projects are seperated into folders based upon the Programming Language/Structure used.
 
-Tableau interactive vizzes are hosted seperately on the Tableau Public site at https://public.tableau.com/app/profile/paul.garceau/vizzes and can be interacted with online without additionally software
+**Power-BI contains:**
+  - Static Screenshots of the Power BI visualizations.
+  - Power BI files which require Power BI Software to utilize.
 
-Static Screenshots of the Tableau vizzes are in the Tableau Folder as well as Tableau files which require Tableau Software to utilize.
+  
+**Python contains:**
+- Jupyter notebook files to view comments, code and outputs
+- Python files
 
-Static Screenshots of the Power BI visualiztins are in the Power BI Folder as well as Power BI files which require Power BI Software to utilize.
+  
+**R contains:**
+  - Jupyter notebook files to view comments, code and outputs
+  - R files
+
+
+**Tableau contains:** 
+  - Interactive vizzes are hosted seperately on the Tableau Public site at
+   https://public.tableau.com/app/profile/paul.garceau/vizzes
+  These can be interacted with online without additionally software
+
+  - Static Images of the Tableau vizzes are in the Tableau Folder
+  - Tableau files which require Tableau Software to utilize.
+
+
