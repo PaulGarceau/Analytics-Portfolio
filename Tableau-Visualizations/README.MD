@@ -1,7 +1,7 @@
 Interactive Tableau Visualizations are hosted on Tableau Public at:
-https://public.tableau.com/app/profile/paul.garceau/vizzes
+**https://public.tableau.com/app/profile/paul.garceau/vizzes**
 
-Visualiztions:
+Visualizations:
   - **Austin Animal Shelter Intake and Outcome Information:**
     An interactive visual that displays Itake counts and Outcomes by year and is searchable by animal type
 
