@@ -8,17 +8,17 @@ Welcome, Projects are seperated into folders based upon the Programming Language
   - Power BI files which require Power BI Software to utilize.
 
   
-**Python-Projects contains:**
+**Python contains:**
 - Jupyter notebook files to view comments, code and outputs
 - Python files
 
   
-**R-Projects contains:**
+**R contains:**
   - Jupyter notebook files to view comments, code and outputs
   - R files
 
 
-**Tableau-Visualizations contains:** 
+**Tableau contains:** 
   - Interactive vizzes are hosted seperately on the Tableau Public site at
    https://public.tableau.com/app/profile/paul.garceau/vizzes
   These can be interacted with online without additionally software
