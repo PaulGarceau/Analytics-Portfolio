@@ -4,7 +4,8 @@ Data Analytics Examples
 Welcome, Projects are seperated into folders based upon the Programming Language/Structure used.
 
 Python-Projects contains:
-  Jupyter notebook files to view comments, code and outputs
+
+Jupyter notebook files to view comments, code and outputs
   Python files
   
 R-Projects contains:
