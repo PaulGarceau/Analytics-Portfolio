@@ -7,7 +7,7 @@ R projects
 
 1) **Correlation Analysis Between Auto Dataset Fields**
 
-    Utilizing the statistcal tools in R, find correlation coefficient values, t-value, degrees of freedom, p-value 
+    Utilizing the statistical tools in R, find correlation coefficient values, t-value, degrees of freedom, p-value 
     and confidence interval between numerical specifications of vehicles in the public Auto dataset.
 
 2) **Logistic Regression to find Probability of a Student Passing**
