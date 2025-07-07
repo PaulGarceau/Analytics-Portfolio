@@ -1,10 +1,5 @@
 R projects
 
-Find the correlation between hours studied and whether and student passes using logistic regression
-
-
-R projects
-
 1) **Correlation Analysis Between Auto Dataset Fields**
 
     Utilizing the statistical tools in R, find correlation coefficient values, t-value, degrees of freedom, p-value 
