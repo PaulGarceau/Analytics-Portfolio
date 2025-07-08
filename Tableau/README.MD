@@ -3,7 +3,7 @@ Interactive Tableau Visualizations are hosted on Tableau Public at:
 
 Visualizations:
   - **Austin Animal Shelter Intake and Outcome Information:**
-    An interactive visual that displays Itake counts and Outcomes by year and is searchable by animal type
+    An interactive visual that displays Itake counts and Outcomes by year and is searchable by animal type. Required joining joining the datasets from https://catalog.data.gov/dataset/austin-animal-center-intakes and https://catalog.data.gov/dataset/austin-animal-center-outcomes
 
   - **Comparing US Contract Spending by State and per Capita:**
     Interactive maps with state spending data as a sum and per capita details availablke upon hover/click 
