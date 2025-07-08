@@ -1,7 +1,6 @@
 # AnalyticsPortfolio
-Data Analytics Examples
-
-Welcome, Projects are seperated into folders based upon the Programming Language/Structure used.
+Welcome!! 
+Projects are seperated into folders based upon the Programming Language/Structure used.
 
 **Power-BI contains:**
   - Descrption of Project
