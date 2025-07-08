@@ -8,7 +8,7 @@ Visualizations at the above link:
   - **Austin Animal Shelter Intake and Outcome Information:**
 
 
-	An interactive visual that displays Intake counts and Outcomes by year and is searchable by animal type. 
+	An interactive visual that displays Intake counts and Outcomes by year and is searchable by animal type using datasets from public.gov
 
 
 
@@ -23,4 +23,4 @@ Visualizations at the above link:
   - **Iowa Road Incidents:**
  
 
-	An interactive map displaying road incidents with details availble upon hover/click and searchable by road. 
+	An interactive map displaying road incidents with details availble upon hover/click and searchable by road using public dataset from data.gov
