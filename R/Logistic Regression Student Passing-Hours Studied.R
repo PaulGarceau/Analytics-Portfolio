@@ -1,6 +1,6 @@
 #Compare the hours spent studying to whether a students passes an exam
-#Plot data as points and graph logarithmic regression S Curve
-#Use logarithmic regression to create a predictive model
+#Plot data as points and graph Logistic regression S Curve
+#Use Logistic regression to create a predictive model
 #Predict outcome for various study times
 
 
@@ -16,14 +16,14 @@ Pass <- c(0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1)
 hoursstudied = data.frame(Hours, Pass)
 
 
-#Plot the data with logarithmic regression
+#Plot the data with Logistic regression
 ggplot(hoursstudied, aes(Hours, Pass)) + geom_point(aes()) + 
   geom_smooth(formula = y ~ x, method = 'glm', se = FALSE, method.args = list(family=binomial)) + 
   labs(x = "Hours Studied", y = "Probability of Passing",
        title = "Probability of Passing Based on Hours Studied")
 
 
-#Use logarithmic regression to create a predictive model
+#Use Logistic regression to create a predictive model
 logmodel = glm(Pass ~ Hours, family = binomial(link ="logit"), 
                                              data = hoursstudied)
 
