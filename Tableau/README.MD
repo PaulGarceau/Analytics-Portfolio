@@ -7,7 +7,7 @@ Visualizations:
 
 https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510564259070/AustinAnimalCenterIntakeandOutcomeInformation
 
-    An interactive visual that displays Itake counts and Outcomes by year and is searchable by animal type. Required joining the datasets from catalog.data.gov/dataset/austin-animal-center-intakes and catalog.data.gov/dataset/austin-animal-center-outcomes
+An interactive visual that displays Itake counts and Outcomes by year and is searchable by animal type. Required joining the datasets from catalog.data.gov/dataset/austin-animal-center-intakes and catalog.data.gov/dataset/austin-animal-center-outcomes
 
 
 
@@ -23,4 +23,4 @@ https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510
  
   https://public.tableau.com/app/profile/paul.garceau/viz/IowaRoadIncidents/MainView
 
-    An interactive map displaying road incidents with details availble upon hover/click and searchable by road. 
+  An interactive map displaying road incidents with details availble upon hover/click and searchable by road. 
