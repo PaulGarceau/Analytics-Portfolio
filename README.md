@@ -8,7 +8,7 @@ Projects are seperated into folders based upon the Programming Language/Structur
   - Power BI files which require Power BI Software to utilize.
 
   
-**[Python](Python/README.md) contains:**
+**[Python](Python/README.MD) contains:**
 - Description of Project
 - Jupyter notebook files to view comments, code and outputs
 - Python files
