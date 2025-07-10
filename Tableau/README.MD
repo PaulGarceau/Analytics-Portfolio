@@ -9,7 +9,7 @@ Projects:
   - **[Austin Animal Shelter Intake and Outcome Information](https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510564259070/AustinAnimalCenterIntakeandOutcomeInformation):**
 
 
-	An interactive visual using datasets from public.gov that displays Intake counts and Outcome types by year and animal type. Also allows closer focus/query by animal type.
+	An interactive visual joining datasets from public.gov that displays Intake counts and Outcome types by year and animal type. Also allows closer focus/query by animal type.
 
 
 
