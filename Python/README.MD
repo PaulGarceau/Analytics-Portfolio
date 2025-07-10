@@ -1,6 +1,6 @@
 **[Compare Payment Methods used by Customers](Ecommerce-BreakdownByPaymentMethod.ipynb)**
 
-Utilzing an Ecommerce Dataset:
+Utilizing an Ecommerce Dataset, perform the following with Python code:
 - Load dataset
 - Confirm numerical types for fields used in calculations
 - Create a series containing counts for unique payment methods
