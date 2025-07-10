@@ -4,7 +4,7 @@ The Tableau folder also contains the raw Tableau .txbx files which require Table
 
 Projects:
 
-- **E-Commerce - Sales and Payment Analysis](https://public.tableau.com/app/profile/paul.garceau/viz/E-Commerce-SalesAndPaymentAnalysis/SalesCategoryAnalysis)**
+- **[E-Commerce - Sales and Payment Analysis](https://public.tableau.com/app/profile/paul.garceau/viz/E-Commerce-SalesAndPaymentAnalysis/SalesCategoryAnalysis)**
 
 
 	An interactive two-page dashboard breaking down sales by item category and payment method.
