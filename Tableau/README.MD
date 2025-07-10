@@ -1,5 +1,6 @@
-Interactive Tableau Visualizations are hosted on [Tableau Public](https://public.tableau.com/app/profile/paul.garceau/vizzes)
-The Tableau folder contains the Tableau .txbx files
+Interactive Tableau Visualizations are available on [Tableau Public](https://public.tableau.com/app/profile/paul.garceau/vizzes)
+
+The Tableau folder also contains the raw Tableau .txbx files which require Tableau software to utilize
 
 Projects:
 
@@ -22,4 +23,4 @@ Projects:
   - **[Iowa Road Incidents](https://public.tableau.com/app/profile/paul.garceau/viz/IowaRoadIncidents/MainView):**
  
 
-	An interactive map using public dataset from data.gov that displays road incidents with details available upon hover/click and incidents searchable by road.
+	An interactive map a public dataset from data.gov that displays road incidents with details available upon hover/click and incidents searchable by road.
