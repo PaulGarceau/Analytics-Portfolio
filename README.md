@@ -24,7 +24,7 @@ Projects are seperated into folders based upon the Programming Language/Structur
   - [Interactive vizzes hosted on the Tableau Public site](https://public.tableau.com/app/profile/paul.garceau/vizzes)  
   These can be interacted with online without additionally software
 
-  - Descrption of Project
+  - Description of Project
   - Static Images of the Tableau vizzes
   - Tableau Workbook files which require Tableau Software to utilize.
 
