@@ -8,19 +8,19 @@ Projects are seperated into folders based upon the Programming Language/Structur
   - Power BI files which require Power BI Software to utilize.
 
   
-**[Python](Python) contains:**
+**[Python](Python/README.md) contains:**
 - Description of Project
 - Jupyter notebook files to view comments, code and outputs
 - Python files
 
   
-**[R](R) contains:**
+**[R](R/README.md) contains:**
   - Description of each Project
   - Jupyter notebook files to view comments, code and outputs
   - R files
 
 
-**[Tableau](Tableau) contains:** 
+**[Tableau](Tableau/README.md) contains:** 
   - [Interactive vizzes hosted on the Tableau Public site](https://public.tableau.com/app/profile/paul.garceau/vizzes)  
   These can be interacted with online without additionally software
 
