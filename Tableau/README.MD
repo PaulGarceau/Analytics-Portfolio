@@ -4,13 +4,15 @@ The Tableau folder also contains the raw Tableau .txbx files which require Table
 
 Projects:
 
+  
+
+  - **[Austin Animal Shelter Intake and Outcome Information](https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510564259070/AustinAnimalCenterIntakeandOutcomeInformation):**
+
+
   - **[E-Commerce - Sales and Payment Analysis](https://public.tableau.com/app/profile/paul.garceau/viz/E-Commerce-SalesAndPaymentAnalysis/SalesCategoryAnalysis)**
 
 
 	An interactive two-page dashboard breaking down sales by item category and payment method.
-
-
-  - **[Austin Animal Shelter Intake and Outcome Information](https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510564259070/AustinAnimalCenterIntakeandOutcomeInformation):**
 
 
 	An interactive visual using datasets from public.gov that displays Intake counts and Outcome types by year and animal type. Also allows closer focus/query by animal type.
