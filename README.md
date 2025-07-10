@@ -14,7 +14,7 @@ Projects are seperated into folders based upon the Programming Language/Structur
 - Python files
 
   
-**[R](R/README.md) contains:**
+**[R](R/README.MD) contains:**
   - Description of each Project
   - Jupyter notebook files to view comments, code and outputs
   - R files
