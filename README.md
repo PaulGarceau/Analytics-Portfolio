@@ -20,7 +20,7 @@ Projects are seperated into folders based upon the Programming Language/Structur
   - R files
 
 
-**[Tableau](Tableau/README.md) contains:** 
+**[Tableau](Tableau/README.MD) contains:** 
   - [Interactive vizzes hosted on the Tableau Public site](https://public.tableau.com/app/profile/paul.garceau/vizzes)  
   These can be interacted with online without additionally software
 
