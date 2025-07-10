@@ -1,18 +1,17 @@
-Interactive Tableau Visualizations are hosted on Tableau Public at:
-https://public.tableau.com/app/profile/paul.garceau/vizzes
+Interactive Tableau Visualizations are hosted on [Tableau Public](https://public.tableau.com/app/profile/paul.garceau/vizzes)
 
 
-Visualizations at the above link:
+Projects:
 
 
-  - **Austin Animal Shelter Intake and Outcome Information:**
+  - **[Austin Animal Shelter Intake and Outcome Information](https://public.tableau.com/app/profile/paul.garceau/viz/AustinAnimalCenter_17510564259070/AustinAnimalCenterIntakeandOutcomeInformation):**
 
 
 	An interactive visual that displays Intake counts and Outcomes by year and is searchable by animal type using datasets from public.gov
 
 
 
-  - **Comparing US Contract Spending by State and per Capita:** 
+  - **[Comparing US Contract Spending by State and per Capita](https://public.tableau.com/app/profile/paul.garceau/viz/ComparingU_S_ContractbyStatevs_PerCapita/ComparingUSContractSpending2018-2023):** 
 
 
 	Interactive maps with state spending data as a sum and per capita details availablke upon hover/click 
@@ -20,7 +19,7 @@ Visualizations at the above link:
 
 
 
-  - **Iowa Road Incidents:**
+  - **[Iowa Road Incidents](https://public.tableau.com/app/profile/paul.garceau/viz/IowaRoadIncidents/MainView):**
  
 
 	An interactive map displaying road incidents with details availble upon hover/click and searchable by road using public dataset from data.gov
