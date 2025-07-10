@@ -1,4 +1,4 @@
-**[Compare Payment Methods used by Customers](Python/Ecommerce-BreakdownByPaymentMethod.ipynb)**
+**[Compare Payment Methods used by Customers](/Ecommerce-BreakdownByPaymentMethod.ipynb)**
 
 Utilzing an Ecommerce Dataset:
 - Load dataset
