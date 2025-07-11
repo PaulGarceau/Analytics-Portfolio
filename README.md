@@ -21,7 +21,7 @@ Projects are seperated into folders based upon the Programming Language/Structur
 
 
 **[Tableau](Tableau/README.MD) contains:** 
-  - [Interactive vizzes hosted on the Tableau Public site](https://public.tableau.com/app/profile/paul.garceau/vizzes)  
+  - [Interactive vizzes hosted on the Tableau Public site](https://public.tableau.com/app/profile/paulgarceau/vizzes)  
   These can be interacted with online without additionally software
 
   - Description of and links to Projects
